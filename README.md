@@ -1,2 +1,3 @@
 # IRC
-Coming s∞n
+
+Use `.vcgui` command to open voice control gui.
